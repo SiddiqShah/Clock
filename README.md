@@ -33,6 +33,6 @@ Handled via custom ClockTimeProvider with periodic state updates
 Modular Provider structure for each screen (TimerProvider, StopwatchProvider, ClockTimeProvider)
 Separation of concerns for easy scalability and testing
 
-##📈 Outcome:
+## 📈 Outcome:
 This project strengthened my skills in Flutter UI/UX development, state management with Provider, real-time updates, and working with modular architecture. It also provided hands-on experience in building maintainable codebases with responsive designs and efficient logic flow.
 
